@@ -1,0 +1,10 @@
+body {
+  background-color: #373a42;
+}
+.AppWrapper {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  align-items: center;
+  justify-content: space-around;
+}
